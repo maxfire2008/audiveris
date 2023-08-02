@@ -1,3 +1,5 @@
+⚠️ This is a fork of the [official Audiveris](https://github.com/Audiveris/audiveris/). I plan to add some features (mainly related to creating macOS builds) but I've made a release at [macOS build](https://github.com/maxfire2008/audiveris/releases)!
+
 ![](https://github.com/Audiveris/docs/blob/master/images/SplashLogo.png)
 
 # Audiveris - Open-source Optical Music Recognition
